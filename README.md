@@ -7,6 +7,11 @@ Software Engineering Student
 * 🌍  I'm based in Montreal
 * 🖥️  See my portfolio at [My Website](http://bensliu.tech)
 * ✉️  You can contact me at [liubenjamin8@gmail.com](mailto:liubenjamin8@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ### Skills
 
