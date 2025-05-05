@@ -10,7 +10,7 @@
   
  🌍  I'm based in Montreal
   
- 🖥️  See my portfolio at [My Website](http://bensliu.tech)
+ 🖥️  See my portfolio at [bensliu.ca](http://bensliu.ca)
 
  ✉️  You can contact me at [liubenjamin8@gmail.com](mailto:liubenjamin8@gmail.com)
  
