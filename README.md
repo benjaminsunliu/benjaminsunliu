@@ -62,7 +62,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://streak-stats.demolab.com?user=benjaminsunliu&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=benjaminsunliu&theme=highcontrast" alt="GitHub Streak" />
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=benjaminsunliu&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
