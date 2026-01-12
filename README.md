@@ -62,11 +62,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=benjaminsunliu&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=benjaminsunliu&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=benjaminsunliu&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-fast.vercel.app/api?username=benjaminsunliu&show_icons=true&theme=radical" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminsunliu&hide=HTML&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=benjaminsunliu&layout=compact&theme=radical" alt="top langs" />
 </div>
 
 <br/><br/>
